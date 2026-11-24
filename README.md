@@ -20,3 +20,9 @@ This is one of 10 deterministic B2B tools for SaaS teams built by [derbaroser-en
 See all tools: https://derbaroser-eng.github.io/products/
 
 Built with Python. Standard library only. No ML. No subscriptions. No data leaves your machine.
+
+## Field note
+
+Why failed-payment retries should be rules you can read: [Three retries, then stop](https://dev.to/aurum_revenue/three-retries-then-stop-the-dunning-rules-i-can-defend-in-a-code-review-ajp).
+
+The annotated decision trace is on the [product page](https://derbaroser-eng.github.io/dunning/field-note.html).
